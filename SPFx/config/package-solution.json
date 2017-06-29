@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "share-point-online-client-side-solution",
+    "id": "b57ac9c9-b86e-4c14-b054-0c3b3d667e29",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/share-point-online.sppkg"
+  }
+}
